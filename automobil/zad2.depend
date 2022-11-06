@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667696853 source:c:\users\centar\desktop\racp\s3\oop\zad2\main.cpp
+	<iostream>
+	"automobil.hpp"
+
+1667697968 c:\users\centar\desktop\racp\s3\oop\zad2\automobil.hpp
+	"skoljka.hpp"
+	"menjac.hpp"
+
+1667696800 c:\users\centar\desktop\racp\s3\oop\zad2\skoljka.hpp
+
+1667696347 c:\users\centar\desktop\racp\s3\oop\zad2\menjac.hpp
+
