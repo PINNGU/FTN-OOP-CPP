@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1667693910 source:c:\users\centar\desktop\racp\s3\oop\zad1\main.cpp
+	<iostream>
+	"valjak.hpp"
+
+1667694329 c:\users\centar\desktop\racp\s3\oop\zad1\valjak.hpp
+	"krug.hpp"
+	"prav.hpp"
+
+1667688582 c:\users\centar\desktop\racp\s3\oop\zad1\krug.hpp
+	<cmath>
+
+1667688777 c:\users\centar\desktop\racp\s3\oop\zad1\prav.hpp
+
