@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667699217 source:c:\users\centar\desktop\racp\s3\oop\monitor\main.cpp
+	<iostream>
+	"monitor.hpp"
+
+1667700555 c:\users\centar\desktop\racp\s3\oop\monitor\monitor.hpp
+	"screen.hpp"
+
+1667699217 c:\users\centar\desktop\racp\s3\oop\monitor\screen.hpp
+
