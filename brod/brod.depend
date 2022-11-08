@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667934943 source:c:\users\centar\desktop\racp\s3\oop\brod\main.cpp
+	<iostream>
+	"brod.hpp"
+
+1667935084 c:\users\centar\desktop\racp\s3\oop\brod\brod.hpp
+	"motor.hpp"
+
+1667931243 c:\users\centar\desktop\racp\s3\oop\brod\motor.hpp
+
